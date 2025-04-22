@@ -1,3 +1,6 @@
+# Nombre: Cristofer Fuentes
+# Fecha: 22-04-2025
+
 # crear una lista
 
 mi_lista = ["manzanas","platanos,","cerezas","tomates"]

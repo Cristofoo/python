@@ -1,3 +1,7 @@
+# Nombre: Cristofer Fuentes
+# Fecha: 22-04-2025
+
+
 #lista.pop(indice)
 
 #crar una lista con vbalores

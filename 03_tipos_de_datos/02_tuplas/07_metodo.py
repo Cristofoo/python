@@ -1,3 +1,6 @@
+# Cristofer fuentes
+#programador de left for dead 2
+#24-03-2025
 #metodo de las tuplas
 
 #index (): encontrar la posicion de un elemento

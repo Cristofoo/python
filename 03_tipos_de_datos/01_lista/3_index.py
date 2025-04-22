@@ -1,3 +1,6 @@
+# Nombre: Cristofer Fuentes
+# Fecha: 22-04-2025
+
 #lista.index(valor)
 
 #crar una lista

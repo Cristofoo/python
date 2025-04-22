@@ -1,3 +1,6 @@
+# Cristofer fuentes
+#programador de left for dead 2
+#24-03-2025
 #acceder al elemento por indice
 
 #cononcer que los elementos en una tupla tienen indices que comienzan en 0

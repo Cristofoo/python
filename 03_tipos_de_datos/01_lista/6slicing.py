@@ -1,3 +1,6 @@
+# Nombre: Cristofer Fuentes
+# Fecha: 22-04-2025
+
 #sirve para sacar los elementos entre
 
 mi_lista=[10,30,40,50,60]

@@ -1,3 +1,7 @@
+# Cristofer fuentes
+#programador de left for dead 2
+#24-03-2025
+
 #concatenar tupla
 #saber que tuplas se pueden combinar usando el operador +.
 

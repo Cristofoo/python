@@ -1,3 +1,6 @@
+# Cristofer fuentes
+#programador de left for dead 2
+#24-03-2025
 #longitud de una tupla  (len())
 #usar la funcion (len()) para determinar cuantos elementos tiene una tupla
 
